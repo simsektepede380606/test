@@ -1,13 +1,10 @@
 {
   "dependencies": {
     "cors": "^2.8.5",
-    "docx": "^8.5.0",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "express-ntlm": "^2.7.0",
-    "express-session": "^1.18.0",
     "mssql": "^10.0.2",
-    "pdfkit": "^0.15.0",
     "sequelize": "^6.37.3",
     "tedious": "^18.2.0"
   }
